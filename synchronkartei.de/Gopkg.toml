@@ -1,0 +1,63 @@
+[[constraint]]
+  branch = "master"
+  name = "github.com/digitalcrab/browscap_go"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/hashicorp/golang-lru"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/mediocregopher/radix.v2"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/microcosm-cc/bluemonday"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/muesli/cache2go"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/op/go-logging"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/patrickmn/go-cache"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/ryanbradynd05/go-tmdb"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/satori/go.uuid"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/texttheater/golang-levenshtein"
+
+[[constraint]]
+  branch = "master"
+  name = "golang.org/x/crypto"
+
+[[constraint]]
+  name = "gopkg.in/gorilla/mux.v1"
+  version = "1.1.0"
+
+[[constraint]]
+  name = "github.com/gorilla/feeds"
+  version = "1.0.0"
+
+[[constraint]]
+  name = "github.com/go-sql-driver/mysql"
+  version = "1.3.0"
+
+[[constraint]]
+  name = "github.com/DATA-DOG/go-sqlmock"
+  version = "1.3.0"
+
+[[constraint]]
+  name = "github.com/codercom/go-captcha"
+  version = "1.0.0"
